@@ -1,6 +1,7 @@
 # Custom
 build/
 .idea/
+.vscode/
 kube-applier
 
 # Below created by https://www.gitignore.io/api/vim,go
